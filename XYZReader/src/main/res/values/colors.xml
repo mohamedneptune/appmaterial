@@ -1,0 +1,12 @@
+<resources>
+    <color name="photo_placeholder">#ccc</color>
+
+    <color name="colorPrimary">#ff3366</color>
+    <color name="colorPrimaryDark">#eb1c50</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- doneList -->
+    <color name="colorGray">#bcc0c1</color>
+    <color name="colorGrayDark">#ff366b</color>
+    <color name="colorGrayDark1">#202334</color>
+    <color name="colorWhite">#ffffff</color>
+</resources>
